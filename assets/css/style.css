@@ -35,6 +35,9 @@ body {
 .blue2 {
     background-color: rgb(3, 83, 114);
 }
+.blue3 {
+    background-color: rgba(3, 83, 114, 0.288);
+}
 .text-justify {
     text-align: justify;
 }
